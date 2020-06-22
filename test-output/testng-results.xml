@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="119809" started-at="2020-06-22T09:22:13 NPT" finished-at="2020-06-22T09:24:13 NPT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="119809" started-at="2020-06-22T09:22:13 NPT" finished-at="2020-06-22T09:24:13 NPT">
+      <class name="testCases.Add_To_Cart">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCases.Add_To_Cart@2a556333]" name="setUp" is-config="true" duration-ms="28025" started-at="2020-06-22T09:22:13 NPT" finished-at="2020-06-22T09:22:41 NPT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="add()[pri:0, instance:testCases.Add_To_Cart@2a556333]" name="add" duration-ms="87412" started-at="2020-06-22T09:22:41 NPT" finished-at="2020-06-22T09:24:08 NPT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.Add_To_Cart@2a556333]" name="tearDown" is-config="true" duration-ms="4317" started-at="2020-06-22T09:24:08 NPT" finished-at="2020-06-22T09:24:13 NPT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Add_To_Cart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
